@@ -1,2 +1,2 @@
-# adlkov
-(b/aimaz dan land escape from tarkov event)
+# ADLkov
+## AimazDanLand escape from tarkov event
